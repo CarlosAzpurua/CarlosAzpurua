@@ -1,4 +1,4 @@
-Hi there, I'm Carlos Azpurua, and welcome to my GitHub repository👋 
+### Hi there, I'm Carlos Azpurua, and welcome to my GitHub repository👋 
 
 I am a Data Scientist with 3 years of experience.
 In these 3 years, I have had the opportunity to be a team leader for the development of web platforms. Every project that I’ve been part of all came around as success stories; I worked with TypeScript, React, Express, NodeJs, Swagger, Jest, Heroku, MongoDB, and their tools used for the development of apps and web pages.
