@@ -18,7 +18,8 @@ Below you can learn more about me, my development, contributions, and my special
 
 
 ## - 📫 How to reach me:
-   # - LinkedIn [CarlosAzpurua](https://www.linkedin.com/in/carlosazpurua/)
+   
+   LinkedIn [CarlosAzpurua](https://www.linkedin.com/in/carlosazpurua/)
 
 
 ```
