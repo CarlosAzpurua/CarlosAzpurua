@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos Azpurua, and welcome to my GitHub repository👋 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there,%20I%27m%20Carlos%20Azpurua%20and%20welcome%20to%20my%20GitHub%20Repository%F0%9F%91%8B&fontSize=20)
 
 I am a Data Scientist with 3 years of experience.
 In these 3 years, I have had the opportunity to be a team leader for the development of web platforms. Every project that I’ve been part of all came around as success stories; I worked with TypeScript, React, Express, NodeJs, Swagger, Jest, Heroku, MongoDB, and their tools used for the development of apps and web pages.
