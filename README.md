@@ -23,7 +23,7 @@ Below you can learn more about me, my development, contributions, and my special
 
 
 ```
-                                "Think twice, code once!"
+                                             "Think twice, code once!"
 ```
 
 
