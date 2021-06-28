@@ -14,7 +14,7 @@ Below you can learn more about me, my development, contributions, and my special
 
    I passionate the technology and at this moment maybe are only 4 new techs I study to be better but these are not the limit because for me this career never stops to expand and this is why -if someone knows me, know- how much I like study and try to learn more about new things. 
     
-## - 👯 I’m looking to collaborate on [SSI Protocol or SSI Tyron](https://www.ssiprotocol.com/#/)
+## - ⚡ I’m collaborate on the Open Source with [SSI Protocol or SSI Tyron](https://www.ssiprotocol.com/#/)
 
 
 ## - 📫 How to reach me:
