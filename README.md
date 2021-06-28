@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
-
 ### Hi there, I'm Carlos Azpurua, and welcome to my GitHub repository👋 
 
 I am a Data Scientist with 3 years of experience.
