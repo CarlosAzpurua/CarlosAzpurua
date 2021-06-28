@@ -6,18 +6,18 @@ Due to the experience gained with deadlines, Scrum methodology, working with lim
 
 Below you can learn more about me, my development, contributions, and my specialties.
 
-## - 🔭 I’m currently working on [Asamblo](https://asamblo.com/) 
+## 🔭 I’m currently working on [Asamblo](https://asamblo.com/) 
      
    In my opinion one of the best companies in Argentina where a coder will see his limits and understand the impact of his code on communities around the globe. I'm totally thankful for the opportunity and to be part of this team. 
 
-## - 🌱 I’m currently learning how to be a better coder and more technologies like Deno, GraphQl, Meteor, and Zilliqa.
+## 🌱 I’m currently learning how to be a better coder and more technologies like Deno, GraphQl, Meteor, and Zilliqa.
 
    I passionate the technology and at this moment maybe are only 4 new techs I study to be better but these are not the limit because for me this career never stops to expand and this is why -if someone knows me, know- how much I like study and try to learn more about new things. 
     
-## - ⚡ I’m collaborate on the Open Source with [SSI Protocol / SSI Tyron](https://www.ssiprotocol.com/#/)
+## ⚡ I’m collaborate on the Open Source with [SSI Protocol / SSI Tyron](https://www.ssiprotocol.com/#/)
 
 
-## - 📫 How to reach me:
+## 📫 How to reach me:
    
    LinkedIn [CarlosAzpurua](https://www.linkedin.com/in/carlosazpurua/)
 
