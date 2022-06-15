@@ -12,9 +12,9 @@ Below you can learn more about me, my development, and contributions.
      
   Genium is a premier software engineering and agile consulting firm (Headquartered in Silicon Valley), that connects innovative companies with developers,  engineers, and security experts.
   
-I am grateful to be part of the team, every day I share and learn too many things with them, and having the opportunity to connect with smart and great people is really cool.
+  I am grateful to be part of the team, every day I share and learn too many things with them, and having the opportunity to connect with smart and great people is really cool. 😄
 
-## 🌱 I’m currently learning how to be a better coder and more technologies like Deno, GraphQl, Solidity, and NFTs.
+## 🌲 I’m currently learning how to be a better coder and more technologies like Deno, GraphQl, Solidity, and NFTs.
 
    I am passionate about technology and learning new things. I study to be better every day and push the limits, because for me this career never stops expanding and that's why, if anyone knows me, you know how much I like to inform myself and try to learn more about new things. 
     
@@ -28,7 +28,7 @@ I am grateful to be part of the team, every day I share and learn too many thing
    
 
 ```
-                                             💬**_"Think twice, code once!"_**
+                                             💬"Think twice, code once!"💻
 ```
 
 
