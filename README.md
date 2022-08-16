@@ -35,9 +35,9 @@ Below you can learn more about me, my development, and contributions.
  　　　　　　　　　　˚   　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　🌌　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　
  　　　　　　　　　　   　　　　   　 　　　˚　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　 　　　　　　　　 　　　　　 　　 　　　　　　　  　　
  　　　　　　　　　  　　　　   　 　　 　　　　　　　　˚　　　　　　 　　　　　　   　　　　　　　　˚　　　　　　　.　　　　　　.　　　 　　　  　　 　　　　　　　  　　
- 　　　.　　　　　　   　　　　 *  　 　　　˚　　　　　　　　　　　　　　　　　　　　   　　　　　　　　　　　　　　　 　　　　　　 　　　　　　.　 　　 　　　　　　　 　　
+ 　　　.　　　　　　   　　　　 *  　 　　　˚　　　　　　　　　　　　　　　　　　　　✦   　　　　　　　　　　　　　　　 　　　　　　 　　　　　　.　 　　 　　　　　　　 　　
  　　　　　　.　　  　　　　   　 　　　 　　　　　　　　.　　　　　　 　　　　　　   　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　 　　 　　　　　　　   . 　　
- 　　　　　　　　　　   　　　🚀   ˚　 　　　 　　　　　　　　　　　　　　 　　　　　　   　　　　*　　　　　　　　 　. 　　　　　　　　　🐙　　　　  　　 　　　　　　　  　　
+ 　　　　　　　　　　   　　　🚀   ˚　 　　　 　　　　　　　　　　　　　　 　　　　　　   　　　　*　　　　　　　　 　. 　　　　　　　　　　　　　  　　 　　　　　　　  　　
  　　　　　　　　　　   　　　　   　 　　　 　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　*　　　　　　 　　　　　　　　　　　　　　. 　　 　　　　　　　  　　
  　　　　　　　　　　  　　　　   　 　　　 　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　 　　 　　　　　　　 . 　　
  　　　　　　　　　　   　　　　   　 　　　˚　　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　 　　　　　　　　　　　　　　. 　　 　　　　　　　 　　
@@ -46,18 +46,18 @@ Below you can learn more about me, my development, and contributions.
 　　　　　　　　　　   　　　　   　 　　　 　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　 　　　　　　　.　　　　　　 　　 　　　　　　　  　　
  　　　　　　.            　　　  　　.　　   　 　　　 　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　*　　　 　　　　　　　　　　　　　 　　 　　　　　　　   　　
  　　　　　　　　　　   　　　　   　 　　　🌑　　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 . 　　
-　　　　　　　　*　　   　　　　   　 　　　　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　 　　　　　　　　　　　　　　  　　 　　　　　　　  　　
+　　　　　　　　*　　   　　　　   　 　　　　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　 　　　　　　　　☄️　　　　　　  　　 　　　　　　　  　　
  　　　　　　　　　　  　　　　   　 　　　 　　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　✦　　　　　　　　　　　　　　. 　　 　　　　　　　 . 　　
  　　　　　　　　　　  　　　   　　
  　　　　　　　　　　  　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　  　　
 　　　　 . 　　　　   　 　　　 　　　
- 　　　　　　　　　　  　　　　  ☄️ 　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　  　　
-　　　　 ✦ 　　　　   　 　　　 　　　　　　　　　　　　　　 　　　　　　   　　　　　　　
+ 　　　　　　　　　　  　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　🎮　　　　　　. 　　 　　　　　　　  　　
+　　　　 * 　　　　   　 　　　 　　　　　　　　　　　　　✦　 　　　　　　   　　　　　　　
                          
-　　　　　　　　　　　　　　　. 　　 　　　　　　　  　　
+　　　　　　　　　　　　　　　. 　　 　🐙　　　　　　  　　
 　　　　 .    　　　　   　 　　　 　　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　   　　
- 　　　　　　　　　　  　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　:whale2:　. 　　 　　　　　　　  　　
-　　　　 ✦ 　　　　   　 　　　 　　　　　　　　　　　　　　 　　　　　　   　　　　🎮　　　
+ 　　　　　　　　　　  　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　✦　　　　　　　　　　　　:whale2:　. 　　 　　　　　　　  　　
+　　　　 ✦ 　　　　   　 　　　 　　　　　　　　　　　　　　 　　　　　　   　　　　　　　
      
 
 
