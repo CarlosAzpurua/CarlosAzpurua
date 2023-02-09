@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there,%20I%27m%20Carlos%20Azpurua%20and%20welcome%20to%20my%20GitHub%20Repository%F0%9F%91%8B&fontSize=25)
 
-I am a Data Scientist with 4 years of experience.
+I am a Data Scientist with 5 years of experience.
 
-In these 4 years, I have had the opportunity to be a team leader in the development of web platforms. Every project that I’ve been part of all came around as a success story (6 projects); I worked with TypeScript, React, Express, NodeJs, Swagger, Jest, Heroku, MongoDB, and their tools used for the development of apps and web pages.
+In these 5 years, I have had the opportunity to be a team leader in the development of web platforms. Every project that I’ve been part of all came around as a success story (8 projects); I worked with TypeScript, React, Express, NodeJs, Tailwind, Jest, Heroku, MongoDB, and their tools used for the development of apps and web pages.
 
 Due to the experience gained with deadlines, Scrum methodology, working with limited time and objectives helped me and encouraged me to give my best.🚀
 
