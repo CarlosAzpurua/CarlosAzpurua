@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there,%20I%27m%20Carlos%20Azpurua%20and%20welcome%20to%20my%20GitHub%20Repository%F0%9F%91%8B&fontSize=25)
 
-Software Engineer working with stack MERN (MongoDB, Express, React, Node.js) and Svelte.
+### Software Engineer working with stack MERN (MongoDB, Express, React, Node.js) and Svelte.
 
 ## 🔭 I’m currently working at [Genium](https://www.genium.io) 
      
