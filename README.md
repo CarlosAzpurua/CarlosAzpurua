@@ -2,11 +2,11 @@
 
 ### Software Engineer working with stack MERN (MongoDB, Express, React, Node.js) and Svelte.
 
-## 🔭 I’m currently working at [AImpact](https://www.aimpact.partners/) 
+## 🔭 I’m currently working at [Globant](https://www.globant.com/es) 
      
-  AImpact  is a leading firm in the domain of learning science, leveraging advanced Artificial Intelligence to devise solutions that augment our capabilities in both learning and instruction.
-  
-  I am grateful to be part of the team, every day I share and learn too many things with them, and having the opportunity to connect with smart and great people is really cool. 😄
+  Globant is a leading technology company, driving digital transformation through innovative solutions that blend creativity, design, and software development.
+
+  I’m grateful to be part of the team, where I learn and share new things every day. Having the opportunity to collaborate with talented and passionate people is truly inspiring. 😄
 
 ## 🌲 I’m currently learning how to be a better coder and more technologies like ThreeJS, Rust and Gaming.🎮
 
