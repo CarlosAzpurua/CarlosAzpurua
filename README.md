@@ -26,21 +26,21 @@
 
 
  　　˚　　　　　　　　˚   　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　🌌　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　  　　
- 　　˚　　　　　　　　![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=4000&pause=400&color=3754CD&center=true&width=500&lines=Think+twice;+code+once!;+Think+twice%2C+code+once!+)] 　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　  　　
+ 　　˚　　　　　　　　 　　　　　　　　　　　　.　　　　　　　　　![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=4000&pause=400&color=3754CD&center=true&width=500&lines=Think+twice;+code+once!;+Think+twice%2C+code+once!+)]　　　　　. 　　 　　　　　　　  　　
            　˚　　　                　🐙　　　　　   　　　　   　 　　　˚　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　 　　　　　　　　 　　　　　 　　 　　　　　　　  　　
  　　　　　　　　　  　　　　   　 　　 　　　　　　　　˚　　　　　　 　　　　　　   　　　　　　　　˚　　　　　　　.　　　　　　.　　　 　　　  　　 　　　　　　　  　　
  　　　.　　　　　　   　　　　 *  　 　　　˚　　　　　　　　　　　　　　   　　　　　　☄️　　　　　　　　　 　　　　　　 　✦　　　　　.　 　　 　　　　　　*　 　　
  　　　　　　.　　  　　　　   　 　　　 　　　　　　　　.　　　　　　 　　　　　　   　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　 　　 　　　　　　　   . 　　
  　˚　　　　　　　　　   　    　　           ˚　 　　　 　　　　　　　　　　　　🚀　　 　　　　　　   　　　*　　　　　　　　 　. 　　　　　　　　　　　　　  　　 　　　✦ 　　　　  　　
- 　　　　　　　　　　   　　　　   　 　　　 　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　*　　　　　　 　　　　　　　　　　　　　　. 　　 　　🪐　　　　　  　　
- 　　　　　　　　　　  　　　　   　 　　　 　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　 　　 　　　　　　　 . 　　
+ 　　　　 　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　*　　　　　　 　　　　　　　　　　　　　　. 　　 　　🪐　　　　　  　　
+ 　　　　　　✦ 　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　 　　 　　　　　　　 . 　　
  　　　　　　　　　　   　　　　   　 　　　˚　　　　✦　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　 　　　　　　　　　　　　　　. 　　 　　　　　　　 　　
 　　　　　　　　　　   　　　　　 　　　　.　　　　　　　　　　　　　　 　　 　.　　　　　　🌎  　      
 　　　　　　　　　　   　　　　   　 　　　 　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　 　　　　　　　.　　　　　　 　　 　　　　　　　  　　
  　　　　　　.            　　　  　　.　　   　 　　　 　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　*　　　 　　　　　　　　　　　　　 　　 　　　　　　　   　　
  　　　　　　　　　　   　　　　   　 　　　🌑　　　　　　　　　　　　　　 　　　✦　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 . 　　
-　　　　　　　　*　　   　　　　   　 　　　　　　　　　　　　👾　　　　　*　　　　　　   　　　　　　　　　　　　　　 　　　　　　　　　　　　　　  　　 　　　　　　　  　　
- 　　　　　　　　　　  　　　　   　 　　　☄️ 　　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　✦　　　　　　　　　　　　　　. 　　 　　　　　　　 . 　　
+　　　　　　　　*　　   　　　　   　 　　　　　　　　　　　　　　　　　　.　　 　　　　　　　　　　　　　　  　　 　　　　　　　  　　👾　　　　　*　　　　　　   　　　　　　
+ 　　　✦ 　　　　　　　  　　　　   　 　　　☄️ 　　　　　　　　　　　　　　 　　　　　　   　　　　　　　　　　　　　　　✦　　　　　　　　　　　　　　. 　　 　　　　　　　 . 　　
  　　　　　　　　　　  　　　   　　
  　　　　　　　　　　  　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　  　　
 　　　　 . 　　　　   　 　　　 　　　
